@@ -17,6 +17,7 @@ Additionally, I incorporated the Location Manager in Android to access the devic
 Furthermore, DriveCheck utilized OpenStreetMap (OSM) for mapping and geolocation purposes. By leveraging OSM, the application could display detailed maps and accurately pinpoint driver locations and routes. This integration not only enhanced the visual representation of driver activities but also provided contextual information crucial for monitoring and ensuring safe driving practices.
 
 Together, Firebase, Location Manager, and OSM integration in DriveCheck enabled comprehensive real-time monitoring, enhanced safety features, and efficient data management critical for the project's objectives of reducing accidents and enhancing passenger safety.
+
 Tags: #AndroidDevelopment #Kotlin #Firebase #MobileApp #Safety #Innovation #RealTimeMonitoring #DrowsinessDetection #SpeedMonitoring #DataSynchronization #TravelSafety #TechForGood #FinalYearProject #AppDevelopment #DriveCheck
 
 #ScreenShots:
