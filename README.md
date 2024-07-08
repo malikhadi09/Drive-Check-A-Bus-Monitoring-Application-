@@ -25,13 +25,31 @@ Together, Firebase, Location Manager, and OSM integration in DriveCheck enabled 
 #AndroidDevelopment #Kotlin #Firebase #MobileApp #Safety #Innovation #RealTimeMonitoring #DrowsinessDetection #SpeedMonitoring #DataSynchronization #TravelSafety #TechForGood #FinalYearProject #AppDevelopment #DriveCheck
 
 # ScreenShots:
-![login](https://github.com/malikhadi09/Drive-Check-A-Bus-Monitoring-Application-/assets/92660593/62243142-9d3e-42ef-997f-8d4defe27ceb)
+# 
+# Splash Screen:
 ![Splashscreen](https://github.com/malikhadi09/Drive-Check-A-Bus-Monitoring-Application-/assets/92660593/308f6d40-a380-4fae-b485-d37514b5c9c8)
+# login page:
+![login](https://github.com/malikhadi09/Drive-Check-A-Bus-Monitoring-Application-/assets/92660593/62243142-9d3e-42ef-997f-8d4defe27ceb)
+
+
 ![1000253542](https://github.com/malikhadi09/Drive-Check-A-Bus-Monitoring-Application-/assets/92660593/d048879a-4b8e-4606-80aa-1350b16456b3)
 ![1000253541](https://github.com/malikhadi09/Drive-Check-A-Bus-Monitoring-Application-/assets/92660593/fde80c97-0af8-4002-a031-53b9f74b762d)
+
+# Driver's Details Activity:
 ![Driverdetails](https://github.com/malikhadi09/Drive-Check-A-Bus-Monitoring-Application-/assets/92660593/501126a3-ca62-42aa-8984-d666479c4ebe)
+
+#Owner's Dashboard: 
 ![ownersdashboard](https://github.com/malikhadi09/Drive-Check-A-Bus-Monitoring-Application-/assets/92660593/82e97fad-25f7-4180-a9ce-aa92b37f9552)
+
+#Driver's Dashboard: 
 ![haadi](https://github.com/malikhadi09/Drive-Check-A-Bus-Monitoring-Application-/assets/92660593/e195cf2b-31f7-4877-9ddc-2b583010748d)
+
+# Dialogue Progress: 
+
 ![logingin](https://github.com/malikhadi09/Drive-Check-A-Bus-Monitoring-Application-/assets/92660593/b927bad2-ee3a-45a9-bf26-d803861b855b)
+
+#Signup Activity: 
+
 ![signupdriver](https://github.com/malikhadi09/Drive-Check-A-Bus-Monitoring-Application-/assets/92660593/fec194db-fae2-46a7-9ac2-7a1d2945e41b)
-![signupowner](https://github.com/malikhadi09/Drive-Check-A-Bus-Monitoring-Application-/assets/92660593/471df14e-d4a7-4ddf-bd06-785b758347aa)
+
+
