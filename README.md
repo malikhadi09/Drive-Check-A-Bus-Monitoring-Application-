@@ -30,7 +30,7 @@ Together, Firebase, Location Manager, and OSM integration in DriveCheck enabled 
 ![Splashscreen](https://github.com/malikhadi09/Drive-Check-A-Bus-Monitoring-Application-/assets/92660593/308f6d40-a380-4fae-b485-d37514b5c9c8)
 
 
-#Signup Activity: 
+# Signup Activity: 
 
 ![signupdriver](https://github.com/malikhadi09/Drive-Check-A-Bus-Monitoring-Application-/assets/92660593/fec194db-fae2-46a7-9ac2-7a1d2945e41b)
 # login page:
@@ -38,10 +38,10 @@ Together, Firebase, Location Manager, and OSM integration in DriveCheck enabled 
 # Dialogue Progress: 
 
 ![logingin](https://github.com/malikhadi09/Drive-Check-A-Bus-Monitoring-Application-/assets/92660593/b927bad2-ee3a-45a9-bf26-d803861b855b)
-#Driver's Dashboard: 
+# Driver's Dashboard: 
 ![haadi](https://github.com/malikhadi09/Drive-Check-A-Bus-Monitoring-Application-/assets/92660593/e195cf2b-31f7-4877-9ddc-2b583010748d)
 
-#Owner's Dashboard: 
+# Owner's Dashboard: 
 ![ownersdashboard](https://github.com/malikhadi09/Drive-Check-A-Bus-Monitoring-Application-/assets/92660593/82e97fad-25f7-4180-a9ce-aa92b37f9552)
 # Driver's Details Activity:
 ![Driverdetails](https://github.com/malikhadi09/Drive-Check-A-Bus-Monitoring-Application-/assets/92660593/501126a3-ca62-42aa-8984-d666479c4ebe)
